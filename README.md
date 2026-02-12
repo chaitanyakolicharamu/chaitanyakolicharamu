@@ -15,7 +15,7 @@ Former Emerging Technology & GenAI Engineer @ Ford Motor Company
 <a href="https://www.linkedin.com/in/venkat017">
 <img src="https://img.shields.io/badge/LinkedIn-Venkat-blue?style=for-the-badge&logo=linkedin">
 </a>
-<a href="mailto:your-email@email.com">
+<a href="mailto:chaitanyakolichramu@email.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
@@ -32,7 +32,7 @@ I build **secure, enterprise-grade Generative AI systems** focused on protecting
 - LLM Guardrails & Security Filtering  
 - Secure GenAI Architecture (Cloud + Edge)  
 
-⚡ Previously worked at **Ford Motor Company**, researching and implementing emerging technologies including AI, edge computing, and infrastructure platforms.
+⚡ Previously worked on researching and implementing emerging technologies including AI, edge computing, and infrastructure platforms.
 
 🎯 My goal: Build the **security layer that protects the future of GenAI systems.**
 

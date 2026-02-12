@@ -1,146 +1,85 @@
 <img width="2550" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/8e625f72-8f64-469b-b9db-f2ca850b6e8e" />
-<!-- HEADER -->
-<h1 align="center">Hi, I'm Venkat 👋</h1>
-
-<h3 align="center">
-🛡️ GenAI Security Engineer | 🤖 AI/ML Engineer | ☁️ Cloud & Edge AI Architect
-</h3>
+<h1 align="center">Venkat ⚡</h1>
 
 <p align="center">
-MS Computer Science @ University of Central Missouri <br>
-Former Emerging Technology & GenAI Engineer @ Ford Motor Company
+I build AI systems that work in the real world — secure, scalable, and production-ready.
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/venkat017">
-<img src="https://img.shields.io/badge/LinkedIn-Venkat-blue?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-venkat017-blue?style=flat-square&logo=linkedin">
 </a>
-<a href="mailto:your-email@email.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+<a href="mailto:yourmail@email.com">
+<img src="https://img.shields.io/badge/Email-venkat-red?style=flat-square&logo=gmail">
 </a>
+<img src="https://komarev.com/ghpvc/?username=chaitanyakolicharamu&style=flat-square">
 </p>
 
 ---
 
-# 🧠 About Me
+## About
 
-I build **secure, enterprise-grade Generative AI systems** focused on protecting LLM applications from real-world threats.
+I design and build secure, real-world AI systems across cloud and edge.
 
-🔐 Specialized in:
-- Prompt Injection & Jailbreak Detection  
-- PII & Sensitive Data Protection  
-- LLM Guardrails & Security Filtering  
-- Secure GenAI Architecture (Cloud + Edge)  
+Focused on making Generative AI **safe, reliable, and deployable at scale** — not just demos, but systems that can actually run in production.
 
-⚡ Previously worked at **Ford Motor Company**, researching and implementing emerging technologies including AI, edge computing, and infrastructure platforms.
-
-🎯 My goal: Build the **security layer that protects the future of GenAI systems.**
+Previously worked on emerging technology platforms at Ford, exploring AI, infrastructure, and edge systems.
 
 ---
 
-# 🚀 Featured Projects
+## What I’m building
 
-## 🛡️ PromptGuardian AI
-Serverless GenAI security layer using AWS Lambda
-
-**Features:**
-- Prompt Injection Detection  
-- PII Detection & Blocking  
-- Secure prompt filtering before LLM execution  
-- DynamoDB logging & audit trail  
-
-**Tech Stack:**
-`AWS Lambda` `Python` `DynamoDB` `Cloud Security`
+🛡️ Security layers for GenAI systems  
+⚡ Cloud and edge AI pipelines  
+🧠 Machine learning systems solving real operational problems  
+☁️ Serverless and distributed AI architectures  
 
 ---
 
-## 🤖 Prompt-Guard AI
-ML & Deep Learning based prompt injection detection system
+## Selected Projects
 
-**Includes:**
-- Logistic Regression  
-- Neural Networks  
-- Transformer Models  
-- LLM-based reasoning detection  
+**PromptGuardian AI**  
+Serverless security layer that filters prompts, detects sensitive data, and protects GenAI applications.
 
-**Focus:** Enterprise-grade LLM security enforcement
+**Prompt-Guard AI**  
+ML and deep learning models for prompt injection and jailbreak detection.
 
----
+**Gen-IoT Edge AI**  
+Hybrid architecture enabling near-device GenAI inference using Docker and modular services.
 
-## 🌐 Gen-IoT Edge Copilot
-Edge-based GenAI inference simulation
-
-**Architecture:**
-- Dockerized edge LLM server  
-- Cloud + Edge hybrid GenAI pipeline  
-- Local GenAI inference simulation  
+**Computer Vision Systems**  
+Image processing and supervised learning pipelines for medical AI classification.
 
 ---
 
-## 👁️ Glaucoma Detection using Computer Vision
-Medical AI system using image processing & supervised learning
+## Tech Stack
 
-**Techniques:**
-- Image preprocessing  
-- Feature extraction  
-- CNN classification  
-
----
-
-# ⚙️ Tech Stack
-
-## 🤖 AI / ML
 <p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn" />
-</p>
-
-## ☁️ Cloud & Infrastructure
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux" />
-</p>
-
-## 💻 Backend & Systems
-<p>
-<img src="https://skillicons.dev/icons?i=python,flask,fastapi,git" />
-</p>
-
-## 🔐 GenAI Security Focus
-- Prompt Injection Defense  
-- LLM Guardrails  
-- Secure GenAI Architecture  
-- Threat Modeling  
-- Enterprise AI Security  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180">
+<img src="https://skillicons.dev/icons?i=python,aws,docker,linux,git,pytorch,tensorflow,flask,fastapi" />
 </p>
 
 ---
 
-# 🧪 Currently Exploring
+## Current Focus
 
-- GenAI Threat Modeling (MITRE ATLAS, OWASP Top-10 for LLMs)
-- Secure LLM Deployment Architectures
-- Enterprise GenAI Security Monitoring
-- Prompt Injection Red Teaming
+Secure GenAI deployment  
+AI threat detection and defense  
+Production-grade AI system design  
+Cloud-edge hybrid AI architecture  
 
 ---
 
-# 🌐 Connect with Me
+## Connect
 
-💼 LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/venkat017
 
+Email  
+chaitanyakolicharamu@gmail.com
+
 ---
 
 <p align="center">
-🛡️ Building the Security Layer for Generative AI
+Building the security layer behind intelligent systems.
 </p>
-
-
 

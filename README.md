@@ -123,11 +123,6 @@ Medical AI system using image processing & supervised learning
 
 </p>
 
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyakolicharamu&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=7A5CFF&point=FFFFFF&hide_border=true"/>
-
-</p>
 
 ---
 

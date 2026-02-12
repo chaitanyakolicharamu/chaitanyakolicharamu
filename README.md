@@ -1,104 +1,86 @@
 <img width="2550" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/8e625f72-8f64-469b-b9db-f2ca850b6e8e" />
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=00F2FE&center=true&vCenter=true&width=500&lines=VENKAT;SECURE+GenAI+SYSTEMS;AI+INFRASTRUCTURE" alt="Venkat Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=>>+VENKAT;>>+SECURE+GenAI+ARCHITECT;>>+BUILDING+RESILIENT+AI" alt="Venkat Typing SVG" />
 
 <p align="center">
-  <kbd>⚡ ARCHITECT</kbd> • <kbd>🛡️ SECURITY</kbd> • <kbd>🤖 AI</kbd> • <kbd>🌐 EDGE</kbd>
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ACTIVE-00F2FE?style=flat-square&logo=target&logoColor=00F2FE" />
+  <img src="https://img.shields.io/badge/LOCATION-DISTRIBUTED-7000FF?style=flat-square&logo=keybase&logoColor=7000FF" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00F2FE&height=60&section=header&text=&fontSize=90" width="100%">
 
-### — THE MISSION —
-**Architecting resilient intelligence.** I design and build secure GenAI pipelines, focus-driven AI infrastructure, and threat-aware systems that scale. Precision-first engineering at the intersection of LLM security and high-performance edge inference.
-
----
-
-### — SKILLS ARSENAL —
-
-| **Domain** | **Capabilities** |
-| :--- | :--- |
-| **GenAI Security** | Prompt Injection Defense • PII Masking • LLM Guardrails • Adversarial Testing |
-| **AI Infrastructure** | Secure RAG Architectures • Scalable Pipelines • Vector DB Optimization |
-| **Edge & Cloud** | Edge AI Inference • Google Cloud Platform • Vertex AI • Kubernetes |
-
-<p align="left">
-<img src="https://img.shields.io/badge/GenAI_Security-00F2FE?style=for-the-badge&logo=shield&logoColor=black" />
-<img src="https://img.shields.io/badge/Prompt_Injection_Defense-7000FF?style=for-the-badge&logo=checkmarx&logoColor=white" />
-<img src="https://img.shields.io/badge/Secure_AI_Arch-00F2FE?style=for-the-badge&logo=architecture&logoColor=black" />
-<img src="https://img.shields.io/badge/Edge_AI-7000FF?style=for-the-badge&logo=microchip&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-00F2FE?style=for-the-badge&logo=google-cloud&logoColor=black" />
-</p>
-
----
-
-### — FEATURED BUILDS —
-
-<table width="100%">
+<br>
+<table border="0">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ PromptGuardian AI</h4>
-      <p>Serverless security layer for GenAI. Real-time PII redaction, prompt injection mitigation, and sensitive data leakage protection for enterprise LLMs.</p>
-      <code>Python</code> <code>Vertex AI</code> <code>Serverless</code>
-      <br><br>
-      <a href="#"><b>View Project →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🌐 Edge Copilot / IoT</h4>
-      <p>Optimized edge inference simulation for IoT devices. Minimalist architecture designed for low-latency AI responses in constrained environments.</p>
-      <code>Edge AI</code> <code>C++</code> <code>TensorFlow Lite</code>
-      <br><br>
-      <a href="#"><b>View Project →</b></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔒 Secure RAG Enterprise</h4>
-      <p>Enterprise-grade RAG assistant featuring SIEM/DLP integration. Native SOAR hooks for automated threat response within AI chat interfaces.</p>
-      <code>LangChain</code> <code>VectorDB</code> <code>DLP API</code>
-      <br><br>
-      <a href="#"><b>View Project →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ FortiBot Framework</h4>
-      <p>Architecture-first GCP/Vertex AI implementation focused on scalable, secure bot logic and infrastructure-as-code deployment.</p>
-      <code>GCP</code> <code>Terraform</code> <code>Vertex AI</code>
-      <br><br>
-      <a href="#"><b>View Project →</b></a>
+    <td>
+      <h2 align="center">“Architecture is the first line of defense.”</h2>
+      <p align="center">
+        Focused on the orchestration of <b>Secure GenAI Ecosystems</b>. <br>
+        I bridge the gap between high-scale <b>AI Infrastructure</b> and <b>Zero-Trust Security</b>. <br>
+        Currently refining edge-optimized inference and automated LLM guardrails.
+      </p>
     </td>
   </tr>
 </table>
 
----
-
-### — SYSTEM METRICS —
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=venkata-chaitanya-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F2FE&icon_color=7000FF" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkata-chaitanya-k&theme=tokyonight&hide_border=true&background=0D1117&ring=00F2FE&fire=7000FF" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=venkata-chaitanya-k&theme=tokyonight&bg_color=0D1117&hide_border=true&color=00F2FE" width="100%" />
-</p>
-
----
-
-### — CONNECT —
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkat017">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:chaitanyakolicharamu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/venkata-chaitanya-k">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 
+### ⚡ THE ARSENAL ⚡
+
+| **GENAI SECURITY** | **INFRASTRUCTURE** | **SPECIALIZED** |
+| :--- | :--- | :--- |
+| <img src="https://img.shields.io/badge/Prompt_Injection-00F2FE?style=for-the-badge&logo=shield&logoColor=000"> | <img src="https://img.shields.io/badge/Kubernetes-7000FF?style=for-the-badge&logo=kubernetes&logoColor=fff"> | <img src="https://img.shields.io/badge/Vertex_AI-00F2FE?style=for-the-badge&logo=google-cloud&logoColor=000"> |
+| <img src="https://img.shields.io/badge/LLM_Guardrails-00F2FE?style=for-the-badge&logo=lock&logoColor=000"> | <img src="https://img.shields.io/badge/Edge_Inference-7000FF?style=for-the-badge&logo=microchip&logoColor=fff"> | <img src="https://img.shields.io/badge/Secure_RAG-00F2FE?style=for-the-badge&logo=probot&logoColor=000"> |
+| <img src="https://img.shields.io/badge/Adversarial_ML-00F2FE?style=for-the-badge&logo=spyderide&logoColor=000"> | <img src="https://img.shields.io/badge/GCP_Architecture-7000FF?style=for-the-badge&logo=googlecloud&logoColor=fff"> | <img src="https://img.shields.io/badge/SIEM_Integration-00F2FE?style=for-the-badge&logo=splunk&logoColor=000"> |
+
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/purple.png" width="100%">
+
+### 🚀 FEATURED DEPLOYMENTS
+
+<div align="left">
+
+> **01. PromptGuardian AI** > `Status: Production Ready`  
+> A sophisticated serverless security middleware for LLMs. Intercepts prompt injections and redacts PII before model ingestion.
+> [_Source Code_](#) • [_Architecture Paper_](#)
+
+> **02. Edge-Inference Copilot** > `Status: Research`  
+> Simulating lightweight, high-performance AI co-pilots on IoT constraints. Focus on hardware-backed security for local weights.
+> [_Source Code_](#) 
+
+> **03. Secure RAG Enterprise** > `Status: Prototype`  
+> Integrating Enterprise DLP with Vector Databases. Ensures that AI-retrieved context never violates organizational data boundaries.
+> [_Source Code_](#)
+
 </div>
 
+<br>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+
+### 📊 SYSTEM PERFORMANCE
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=venkata-chaitanya-k&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D111700&title_color=00F2FE&icon_color=7000FF&text_color=ffffff" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkata-chaitanya-k&theme=tokyonight&hide_border=true&background=0D111700&ring=00F2FE&fire=7000FF&currStreakLabel=00F2FE" height="170" />
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/venkat017">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:chaitanyakolicharamu@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7000FF&height=60&section=footer" width="100%">
+
+</div>

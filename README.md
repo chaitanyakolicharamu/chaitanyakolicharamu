@@ -121,7 +121,6 @@ Medical AI system using image processing & supervised learning
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyakolicharamu&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7A5CFF"/>
 
-</p>
 
 
 ---

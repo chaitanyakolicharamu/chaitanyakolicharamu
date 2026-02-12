@@ -1,6 +1,6 @@
 <img width="2550" height="690" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/8e625f72-8f64-469b-b9db-f2ca850b6e8e" />
 <!-- HEADER -->
-<h1 align="center">Hi, I'm Venkat ⚡</h1>
+<h1 align="center">Hi, I'm Venkat⚡</h1>
 
 <h3 align="center">
 🛡️ GenAI Security Engineer | 🤖 AI/ML Engineer | ☁️ Cloud & Edge AI Architect
@@ -116,8 +116,17 @@ Medical AI system using image processing & supervised learning
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180">
+
+<img src="https://github-readme-stats.vercel.app/api?username=chaitanyakolicharamu&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=7A5CFF"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaitanyakolicharamu&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7A5CFF"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaitanyakolicharamu&theme=tokyo-night&bg_color=0D1117&color=00F7FF&line=7A5CFF&point=FFFFFF&hide_border=true"/>
+
 </p>
 
 ---

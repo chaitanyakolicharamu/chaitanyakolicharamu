@@ -3,7 +3,7 @@
 <h1 align="center">Hi, I'm Venkat⚡</h1>
 
 <h3 align="center">
-🛡️ GenAI Secur Engineer | 🤖 AI/ML Engineer | ☁️ Cloud & Edge AI Architect
+🛡️ GenAI Sec Engineer | 🤖 AI/ML Engineer | ☁️ Cloud & Edge AI Architect
 </h3>
 
 <p align="center">

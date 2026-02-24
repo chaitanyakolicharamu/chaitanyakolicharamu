@@ -11,6 +11,8 @@ MS Computer Science @ University of Central Missouri <br>
 Former Emerging Technology & GenAI Engineer @ Ford Motor Company
 </p>
 
+fbsfbsf sf vs v xv xv vx  x v xv xv v xv 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/venkat017">
 <img src="https://img.shields.io/badge/LinkedIn-Venkat-blue?style=for-the-badge&logo=linkedin">

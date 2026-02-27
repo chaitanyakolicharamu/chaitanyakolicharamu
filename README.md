@@ -21,7 +21,7 @@ Former Emerging Technology & GenAI Engineer @ Ford Motor Company
 </a>
 </p>
 
----_
+---
 
 # 🧠 About Me
 

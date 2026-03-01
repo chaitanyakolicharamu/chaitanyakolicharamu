@@ -20,7 +20,7 @@ Former Emerging Technology & GenAI Engineer @ Ford Motor Company
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
-H
+
 ------
 
 # 🧠 About Me

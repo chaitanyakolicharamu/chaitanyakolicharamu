@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-MS Computer Science @ University of Central Missouri <br>dnnnnn
+MS Computer Science @ University of Central Missouri <br>dnnn
 Former Emerging Technology & GenAI Engineer @ Ford Motor Company
 </p>
 

@@ -73,7 +73,7 @@ Enterprise GenAI security platform built to protect LLM applications from prompt
 * Security Risk Assessment
 
 **Tech Stack**
-Python • TensorFlow • PyTorch • Vertex AI • FastAPI • Terraform • BigQuery • LangSmith • Promptfoo • OWASP LLM Top 10 • MITRE ATLAS • Docker • GitHub Actions
+Python • TensorFlow • PyTorch • Vertex AI • FastAPI • Terraform • BigQuery • LangSmith • OWASP LLM Top 10 • MITRE ATLAS • Docker • GitHub Actions
 
 ---
 

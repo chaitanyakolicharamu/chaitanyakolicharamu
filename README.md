@@ -43,35 +43,72 @@ My interests lie at the intersection of intelligent agents, secure LLM applicati
 
 ### 🤖 Agentic AI Workflow Orchestrator
 
-Enterprise multi-agent platform for workflow automation, decision support, and intelligent task execution.
+Enterprise-grade multi-agent platform designed to automate complex business workflows through intelligent agent collaboration, tool execution, contextual reasoning, and human approval checkpoints.
 
-**Tech:** Python · LangGraph · AWS · GCP · ChromaDB · Kubernetes
+**Key Features**
+
+* Multi-Agent Coordination
+* Tool Calling & Function Execution
+* Human-in-the-Loop Workflows
+* Context Management & Memory
+* Retrieval-Augmented Generation (RAG)
+* Enterprise Observability
+
+**Tech Stack**
+Python • LangGraph • LangChain • MCP • OpenAI • Gemini • ChromaDB • FastAPI • PostgreSQL • Docker • Kubernetes • AWS • GCP • Prometheus • Grafana
 
 ---
 
 ### 🛡 PromptGuardian AI
 
-Enterprise GenAI security platform focused on prompt injection detection, PII protection, AI guardrails, and secure LLM operations.
+Enterprise GenAI security platform built to protect LLM applications from prompt injection attacks, jailbreak attempts, sensitive data leakage, and policy violations before requests reach production AI systems.
 
-**Tech:** Python · TensorFlow · Vertex AI · Terraform · MLOps
+**Key Features**
+
+* Prompt Injection Detection
+* Jailbreak Prevention
+* PII & Sensitive Data Protection
+* AI Guardrails
+* Compliance Logging
+* Security Risk Assessment
+
+**Tech Stack**
+Python • TensorFlow • PyTorch • Vertex AI • FastAPI • Terraform • BigQuery • LangSmith • Promptfoo • OWASP LLM Top 10 • MITRE ATLAS • Docker • GitHub Actions
 
 ---
 
-### 🌐 AI Platform & Infrastructure Engineering
+### 🌐 AI Platform Engineering Framework
 
-Cloud-native AI architectures integrating data pipelines, observability, automation, and scalable deployment patterns.
+Cloud-native AI platform architecture supporting model deployment, orchestration, monitoring, observability, governance, and enterprise-scale AI operations.
 
-**Tech:** GCP · AWS · Docker · Kubernetes · Terraform
+**Key Features**
+
+* AI Platform Architecture
+* Model Serving Infrastructure
+* Data Pipeline Automation
+* Infrastructure as Code
+* Monitoring & Observability
+* AI Governance
+
+**Tech Stack**
+Vertex AI • Cloud Run • BigQuery • Pub/Sub • Cloud Functions • GKE • Terraform • Kubernetes • Docker • Prometheus • Grafana • OpenTelemetry
 
 ---
 
 ### 👁 Wavelet Image Scattering Based Glaucoma Detection
 
-Machine learning and computer vision system for automated glaucoma detection using advanced feature extraction techniques.
+End-to-end machine learning system for glaucoma detection using advanced image processing, wavelet scattering transforms, feature engineering, and predictive modeling techniques.
 
-**Tech:** Python · Computer Vision · Scikit-Learn · Machine Learning
+**Key Features**
 
----
+* Medical Image Processing
+* Feature Extraction
+* Wavelet Scattering Transform
+* Predictive Modeling
+* Model Evaluation & Validation
+
+**Tech Stack**
+Python • OpenCV • Scikit-Learn • NumPy • Pandas • Jupyter • Machine Learning • Computer Vision
 
 ## 🛠 Tech Stack
 

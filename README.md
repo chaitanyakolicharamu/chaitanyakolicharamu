@@ -23,70 +23,113 @@ Former Emerging Technology & GenAI Engineer @ Ford Motor Company
 
 ------
 
-# 🧠 About Me
+# Hi there 👋 I'm Venkata Chaitanya
 
-I build **secure, enterprise-grade Generative AI systems** focused on protecting LLM applications from real-world threats.
+### AI Engineer | Enterprise AI Architect | Agentic AI Systems | GenAI Security
 
-🔐 Specialized in:
-- Prompt Injection & Jailbreak Detection  
-- PII & Sensitive Data Protection  
-- LLM Guardrails & Security Filtering  
-- Secure GenAI Architecture (Cloud + Edge)  
+I build enterprise-grade AI systems that combine Agentic AI, Generative AI, Machine Learning, and Cloud Infrastructure.
 
-⚡ Previously worked on researching and implementing emerging technologies including AI, edge computing, and infrastructure platforms.
-
-🎯 My goal: Build the **security layer that protects the future of GenAI systems.**
+My interests lie at the intersection of intelligent agents, secure LLM applications, AI platforms, retrieval systems, and enterprise-scale automation. I enjoy designing systems that are not only intelligent, but also reliable, observable, and production-ready.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Current Focus
 
-## 🛡️ PromptGuardian AI
-Serverless GenAI security layer using AWS Lambda
-
-**Features:**
-- Prompt Injection Detection  
-- PII Detection & Blocking  
-- Secure prompt filtering before LLM execution  
-- DynamoDB logging & audit trail  
-
-**Tech Stack:**
-`AWS Lambda` `Python` `DynamoDB` `Cloud Security`
-
----
-
-## 🤖 Prompt-Guard AI
-ML & Deep Learning based prompt injection detection system
-
-**Includes:**
-- Logistic Regression  
-- Neural Networks  
-- Transformer Models  
-- LLM-based reasoning detection  
-
-**Focus:** Enterprise-grade LLM security enforcement
+* Agentic AI Systems
+* Enterprise AI Architecture
+* Multi-Agent Workflows
+* Generative AI Applications
+* Retrieval-Augmented Generation (RAG)
+* AI Platform Engineering
+* GenAI Security & Governance
+* Cloud-Native AI Infrastructure
+* Machine Learning Systems
+* AI Observability & Evaluation
 
 ---
 
-## 🌐 Gen-IoT Edge Copilot
-Edge-based GenAI inference simulation
+## 🏗 Featured Projects
 
-**Architecture:**
-- Dockerized edge LLM server  
-- Cloud + Edge hybrid GenAI pipeline  
-- Local GenAI inference simulation  
+### 🤖 Agentic AI Workflow Orchestrator
+
+Enterprise multi-agent platform for workflow automation, decision support, and intelligent task execution.
+
+**Tech:** Python · LangGraph · AWS · GCP · ChromaDB · Kubernetes
+
+---
+
+### 🛡 PromptGuardian AI
+
+Enterprise GenAI security platform focused on prompt injection detection, PII protection, AI guardrails, and secure LLM operations.
+
+**Tech:** Python · TensorFlow · Vertex AI · Terraform · MLOps
 
 ---
 
-## 👁️ Glaucoma Detection using Computer Vision
-Medical AI system using image processing & supervised learning
+### 🌐 AI Platform & Infrastructure Engineering
 
-**Techniques:**
-- Image preprocessing  
-- Feature extraction  
-- CNN classification  
+Cloud-native AI architectures integrating data pipelines, observability, automation, and scalable deployment patterns.
+
+**Tech:** GCP · AWS · Docker · Kubernetes · Terraform
 
 ---
+
+### 👁 Wavelet Image Scattering Based Glaucoma Detection
+
+Machine learning and computer vision system for automated glaucoma detection using advanced feature extraction techniques.
+
+**Tech:** Python · Computer Vision · Scikit-Learn · Machine Learning
+
+---
+
+## 🛠 Tech Stack
+
+### AI & Machine Learning
+
+Python • TensorFlow • PyTorch • Scikit-Learn • Hugging Face
+
+### Agentic AI
+
+LangGraph • LangChain • Multi-Agent Systems • Tool Calling • RAG
+
+### Cloud
+
+Google Cloud Platform • AWS • Microsoft Azure
+
+### Infrastructure
+
+Docker • Kubernetes • Terraform • CI/CD
+
+### Data
+
+BigQuery • PostgreSQL • DynamoDB • Vector Databases • ChromaDB • FAISS
+
+### Security
+
+OWASP LLM Top 10 • MITRE ATLAS • AI Governance • LLM Security • Guardrails
+
+---
+
+## 📚 Certifications
+
+🏆 Google Cloud Professional Machine Learning Engineer
+
+🏆 OCI Generative AI Professional
+
+🏆 Microsoft Azure AI Engineer
+
+🏆 NVIDIA Building RAG Agents with LLMs
+
+🏆 Salesforce AI Associate
+
+---
+
+## 🎯 Mission
+
+Building secure, scalable, and enterprise-ready AI platforms that help organizations deploy Agentic AI and Generative AI responsibly at scale.
+
+The future of AI belongs to systems that combine intelligence, security, governance, and reliability—not just powerful models.
+
 
 # ⚙️ Tech Stack
 

@@ -185,9 +185,6 @@ The future of AI belongs to systems that combine intelligence, security, governa
 
 ---
 
-
----
-
 # 🧪 Currently Exploring
 
 - GenAI Threat Modeling (MITRE ATLAS, OWASP Top-10 for LLMs)

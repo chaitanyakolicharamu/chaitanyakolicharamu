@@ -13,7 +13,7 @@
 </p>
 
 ------
-s
+
 # Hi there 👋 I'm Venkata Chaitanya
 
 ### AI Engineer | Enterprise AI Architect | Agentic AI Systems | GenAI Security

@@ -4,9 +4,7 @@
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/venkat017">
-<img src="https://img.shields.io/badge/LinkedIn-Venkat-blue?style=for-the-badge&logo=linkedin">
-</a>
+
 <a href="mailto:chaitanyakolichramu@email.com">
 <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
@@ -194,10 +192,6 @@ The future of AI belongs to systems that combine intelligence, security, governa
 
 ---
 
-# 🌐 Connect with Me
-
-💼 LinkedIn:  
-https://www.linkedin.com/in/venkat017
 
 ---
 
